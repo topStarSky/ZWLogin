@@ -1,0 +1,22 @@
+{
+  "name": "ZWNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of ZWNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/郑伟/ZWNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "郑伟": "zhengwei_dm@migu.cn"
+  },
+  "source": {
+    "git": "https://github.com/郑伟/ZWNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZWNetworking/Classes/**/*"
+}

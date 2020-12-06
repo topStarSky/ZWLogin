@@ -1,0 +1,6 @@
+framework module ZWLogin {
+  umbrella header "ZWLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
